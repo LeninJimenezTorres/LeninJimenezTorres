@@ -13,6 +13,13 @@ using React Native</p>
 
 ### 
 
+<div align="center" style="background-color: #00000; color:#ffffff; padding: 20px;">
+    <h2 align="justify" style="color:#ffffff">About me</h2>
+    <p align="justify" style="color:#ffffff">Experienced iOS Developer with over 2 years of professional experience in creating software solutions tailored to
+project needs. I have a strong background in Swift, specializing in Javascript, and expertise in mobile development
+using React Native</p>
+</div>
+
 <div align="justify" style="background-color: #00000; color:#ffffff; padding: 20px;>
     <h2 style="color:#ffffff">Technologies</h2>
     <div align="justify" style="background-color: #00000; color:#ffffff; padding: 20px;>
