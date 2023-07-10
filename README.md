@@ -62,6 +62,5 @@ mobile apps, RESTful APIs, 3D web rendering with Three.js, and eCommerce solutio
 <div align="center" style="background-color: #00000; color:#ffffff; padding: 20px;">
     <h2 align="justify" style="color:#ffffff">Important Projects</h2>
     <p align="justify" style="color:#ffffff">I show you some of my most important projects</p>
+    <div align="center"><img src="Galery/arrowdown2.gif" alt="Icono" width="40" height="40"  >Android</div>
 </div>
-
-![](Galery/arrowdown2.gif)
