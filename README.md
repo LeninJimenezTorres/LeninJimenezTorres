@@ -9,6 +9,11 @@
     <p align="justify" style="color:#ffffff">Experienced iOS Developer with over 2 years of professional experience in creating software solutions tailored to
 project needs. I have a strong background in Swift, specializing in Javascript, and expertise in mobile development
 using React Native</p>
+    <p>My skill set includes proficiency in cloud services like AWS and Oracle Cloud Infrastructure, as well as CI/CD, Git,
+Linux, and database management. Throughout my career, I have successfully developed websites, web apps,
+mobile apps, RESTful APIs, 3D web rendering with Three.js, and eCommerce solutions with WordPress.
+</p>
+    <p>I am a professional passionate about programming and developing solutions, I am self-taught and proactive, I like to learn and understand about different technologies, I look for professional challenges and improve day by day.</p>
 </div>
 
 ### 
