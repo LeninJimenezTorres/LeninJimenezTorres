@@ -68,4 +68,4 @@ using React Native</p>
     <p align="justify" style="color:#ffffff">I show you some of my most important projects</p>
 </div>
 
-![](Galery/arrowdown.gif)
+![](Galery/arrowdown2.gif)
