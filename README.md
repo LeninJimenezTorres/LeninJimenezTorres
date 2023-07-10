@@ -1,7 +1,9 @@
 <div align="center" style="background-color: #00000; color:#ffffff; padding: 20px;">
     <h1 align="left" style="color:#ffffff">Software developer</h1>
 </div>
+
 ![](Galery/portada.png)
+
 <div align="center" style="background-color: #00000; color:#ffffff; padding: 20px;">
     <h3 align="justify" style="color:#ffffff">About me</h3>
     <p align="justify" style="color:#ffffff">Experienced iOS Developer with over 2 years of professional experience in creating software solutions tailored to
