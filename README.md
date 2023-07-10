@@ -19,7 +19,7 @@ using React Native</p>
         <h3 align="justify" style="color:#ffffff">Programming languages</h3>
         <div>
             <ul>
-                <li>Swift</li>
+                <li>iOS, Swift</li>
                 <li>Javascript</li>
                 <li>Python</li>
                 <li>Php</li>
@@ -45,31 +45,9 @@ using React Native</p>
     <h2 align="left" style="color:#ffffff">Contacts</h2>
 </div>
 - LinkedIn: [https://www.linkedin.com/in/leninjimenez/]
-
-
-
-### Desarrollador móvil - Empresa XYZ (Fechas)
-
-- Descripción de las responsabilidades y logros en el puesto.
-
-### Desarrollador de React - Empresa ABC (Fechas)
-
-- Descripción de las responsabilidades y logros en el puesto.
-
-## Habilidades
-
-- iOS
-- React Native
-- React
-- Node.js
-- AWS
-- Linux
-- Bases de datos
-
-## Proyectos destacados
-
-- **Nombre del proyecto:** Breve descripción del proyecto y tu contribución.
-- **Nombre del proyecto:** Breve descripción del proyecto y tu contribución.
+- Portfolio: 
+- Email: jlenin25@hotmail.com
+- Phone: +593 979187982
 
 
 
