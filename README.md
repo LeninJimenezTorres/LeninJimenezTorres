@@ -15,7 +15,7 @@ using React Native</p>
 
 <div align="center" style="background-color: #00000; color:#ffffff; padding: 20px;">
     <h2 align="justify" style="color:#ffffff">Technologies</h2>
-    <div align="justify" style="background-color: #00000; color:#ffffff; padding: 20px;>
+    <div align="justify" style="background-color: #00000; color:#ffffff; padding: 20px;">
         <h3 align="justify" style="color:#ffffff">Programming languages</h3>
         <div>
             <ul>
@@ -26,7 +26,7 @@ using React Native</p>
             </ul>
         </div>
     </div>
-    <div align="justify" style="background-color: #00000; color:#ffffff; padding: 20px;>
+    <div align="justify" style="background-color: #00000; color:#ffffff; padding: 20px;">
         <h3 align="justify" style="color:#ffffff">Frameworks</h3>
         <div>
             <ul>
@@ -37,16 +37,16 @@ using React Native</p>
             </ul>
         </div>
     </div>
-     <div align="justify" style="background-color: #00000; color:#ffffff; padding: 20px;>
+     <div align="justify" style="background-color: #00000; color:#ffffff; padding: 20px;">
         <h3 align="justify" style="color:#ffffff">Tools</h3>
         <div>
-            <ul>
+            <ul style="list-style: none;">
                 <li>Postman</li>
                 <li>Webpack</li>
                 <li>Linux</li>
                 <li>Figma</li>
                 <li>Bootstrap</li>
-                <li><img src="Galery/icon4.png" alt="Icono" width="20" height="20">Git</li>
+                <li><img src="Galery/icon4.png" alt="Icono" width="40" height="40" >Git</li>
             </ul>
         </div>
     </div>   
