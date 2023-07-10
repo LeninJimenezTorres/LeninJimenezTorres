@@ -42,6 +42,7 @@ using React Native</p>
 ### 
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/:user/:repo)
+![GitHub top language](https://img.shields.io/github/languages/top/:user/:repo)
 
 
 <div align="center" style="background-color: #00000; color:#ffffff; padding: 20px;">
