@@ -46,7 +46,7 @@ using React Native</p>
                 <li>Linux</li>
                 <li>Figma</li>
                 <li>Bootstrap</li>
-                <li><img src="Galery/icon4.png" alt="Icono" width="40" height="40" >Git</li>
+                <li style="list-style: none;"><img src="Galery/icon4.png" alt="Icono" width="40" height="40" >Git</li>
             </ul>
         </div>
     </div>   
