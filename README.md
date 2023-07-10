@@ -67,4 +67,5 @@ using React Native</p>
     <h2 align="justify" style="color:#ffffff">Important Projects</h2>
     <p align="justify" style="color:#ffffff">I show you some of my most important projects</p>
 </div>
+
 ![](Galery/arrowdown.gif)
