@@ -47,11 +47,14 @@ using React Native</p>
                 <li>Linux</li>
                 <li>Figma</li>
                 <li>Bootstrap</li>
-                <li><img src="https://www.flaticon.es/icono-gratis/bascula_2928937?term=bascula&page=1&position=2&origin=search&related_id=2928937" alt="Icono"> Texto del elemento de lista</li>
+                <li><img src="Galery/arrowdown2.gif" alt="Icono"> Texto del elemento de lista</li>
             </ul>
         </div>
     </div>   
 </div>
+
+![GitHub Repo stars](https://img.shields.io/github/stars/:user/:repo)
+
 
 ### 
 
