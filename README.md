@@ -1,7 +1,10 @@
 <div align="center" style="background-color: #f1f1f1; padding: 20px;">
     <h1>Hello!</h1>
 </div>
-![](./Galery/portada.png)
+
+![](Galery/portada.png)
+
+
 ### Hi there 👋
 
 # Bienvenido a mi perfil de GitHub
