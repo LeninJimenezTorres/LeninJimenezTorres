@@ -16,7 +16,7 @@ using React Native</p>
 <div align="center" style="background-color: #00000; color:#ffffff; padding: 20px;">
     <h2 align="justify" style="color:#ffffff">Technologies</h2>
     <div align="justify" style="background-color: #00000; color:#ffffff; padding: 20px;">
-        <h3 align="justify" style="color:#ffffff">Programming languages</h3>
+        <h3 align="justify" style="color:#ffffff">Programming languages and Frameworks</h3>
         <div>
             <div><img src="Galery/icon2.png" alt="Icono" width="40" height="40" >iOS - <img src="Galery/icon1.png" alt="Icono" width="40" height="40" >Swift</div>
             <div><img src="Galery/icon13.png" alt="Icono" width="40" height="40" >Javascript - <img src="Galery/icon6.png" alt="Icono" width="40" height="40" >React - React Native</div>
@@ -34,14 +34,15 @@ using React Native</p>
             <div><img src="Galery/icon15.png" alt="Icono" width="40" height="40" >Wordpress</div>
             <div><img src="Galery/icon14.png" alt="Icono" width="40" height="40" >Ecommerce</div>
             <div><img src="Galery/icon4.png" alt="Icono" width="40" height="40" >Git</div>             
+            <div><img src="Galery/icon19.png" alt="Icono" width="40" height="40" >Android</div>             
          </div>
     </div>   
 </div>
 
+### 
+
 ![GitHub Repo stars](https://img.shields.io/github/stars/:user/:repo)
 
-
-### 
 
 <div align="center" style="background-color: #00000; color:#ffffff; padding: 20px;">
     <h2 align="justify" style="color:#ffffff">Contacts</h2>
