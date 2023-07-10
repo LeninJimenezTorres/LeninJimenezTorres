@@ -36,8 +36,7 @@ mobile apps, RESTful APIs, 3D web rendering with Three.js, and eCommerce solutio
             <div><img src="Galery/icon12.png" alt="Icono" width="40" height="40" >Linux</div>
             <div><img src="Galery/icon5.png" alt="Icono" width="40" height="40" >Docker</div>
             <div><img src="Galery/icon11.png" alt="Icono" width="40" height="40" >Google cloud</div>
-            <div><img src="Galery/icon15.png" alt="Icono" width="40" height="40" >Wordpress</div>
-            <div><img src="Galery/icon14.png" alt="Icono" width="40" height="40" >Ecommerce</div>
+            <div><img src="Galery/icon15.png" alt="Icono" width="40" height="40" >Wordpress - <img src="Galery/icon14.png" alt="Icono" width="40" height="40" >Ecommerce</div>
             <div><img src="Galery/icon4.png" alt="Icono" width="40" height="40" >Git</div>             
             <div><img src="Galery/icon19.png" alt="Icono" width="40" height="40" >Android</div>             
          </div>
