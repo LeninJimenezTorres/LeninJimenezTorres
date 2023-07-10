@@ -45,10 +45,6 @@ mobile apps, RESTful APIs, 3D web rendering with Three.js, and eCommerce solutio
 
 ### 
 
-![GitHub Repo stars](https://img.shields.io/github/stars/:user/:repo)
-![GitHub top language](https://img.shields.io/github/languages/top/:user/:repo)
-
-
 <div align="center" style="background-color: #00000; color:#ffffff; padding: 20px;">
     <h2 align="justify" style="color:#ffffff">Contacts</h2>
 </div>
