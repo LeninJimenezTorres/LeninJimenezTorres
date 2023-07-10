@@ -5,19 +5,24 @@
 ![](Galery/portada2_1.png)
 
 <div align="center" style="background-color: #00000; color:#ffffff; padding: 20px;">
-    <h3 align="justify" style="color:#ffffff">About me</h3>
+    <h2 align="justify" style="color:#ffffff">About me</h2>
     <p align="justify" style="color:#ffffff">Experienced iOS Developer with over 2 years of professional experience in creating software solutions tailored to
 project needs. I have a strong background in Swift, specializing in Javascript, and expertise in mobile development
 using React Native</p>
 </div>
 
-### Hi there 👋
-
-# Bienvenido a mi perfil de GitHub
-
-## Información personal
-
-![Imagen de perfil](ruta/a/imagen.png)
+<div>
+    <h2 align="justify" style="color:#ffffff">Technologies</h2>
+    <h3 align="justify" style="color:#ffffff">Programming languages</h3>
+    <div>
+        <ul>
+            <li>Swift</li>
+            <li>Javascript</li>
+            <li>Python</li>
+            <li>Php</li>
+        </ul>
+    </div>
+</div>
 
 - **Nombre:** Tu nombre
 - **Ubicación:** Tu ubicación
