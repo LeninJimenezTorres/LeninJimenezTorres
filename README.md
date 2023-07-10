@@ -18,23 +18,10 @@ using React Native</p>
     <div align="justify" style="background-color: #00000; color:#ffffff; padding: 20px;">
         <h3 align="justify" style="color:#ffffff">Programming languages</h3>
         <div>
-            <ul>
-                <li>iOS, Swift</li>
-                <li>Javascript</li>
-                <li>Python</li>
-                <li>Php</li>
-            </ul>
-        </div>
-    </div>
-    <div align="justify" style="background-color: #00000; color:#ffffff; padding: 20px;">
-        <h3 align="justify" style="color:#ffffff">Frameworks</h3>
-        <div>
-            <ul>
-                <li>React.JS</li>
-                <li>React Native</li>
-                <li>Express.JS - Next.JS</li>
-                <li>Flask - Django</li>
-            </ul>
+            <div><img src="Galery/icon2.png" alt="Icono" width="40" height="40" >iOS - Swift</div>
+            <div><img src="Galery/icon6.png" alt="Icono" width="40" height="40" >Javascript - React - React Native</div>
+            <div><img src="Galery/icon8.png" alt="Icono" width="40" height="40" >Node.JS - Express.JS - Next.JS</div>
+            <div><img src="Galery/icon18.png" alt="Icono" width="40" height="40" >Python - Flask</div>
         </div>
     </div>
      <div align="justify" style="background-color: #00000; color:#ffffff; padding: 20px;">
