@@ -1,9 +1,11 @@
-<div align="center" style="background-color: #f1f1f1; padding: 20px;">
-    <h1>Hello!</h1>
+<div align="center" style="background-color: #00000; color:#ffffff; padding: 20px;">
+    <h1 align="left" style="color:#ffffff">Software developer</h1>
+    ![](Galery/portada.png)
+    <h3 align="justify" style="color:#ffffff">About me</h3>
+    <p align="justify" style="color:#ffffff">Experienced iOS Developer with over 2 years of professional experience in creating software solutions tailored to
+project needs. I have a strong background in Swift, specializing in Javascript, and expertise in mobile development
+using React Native</p>
 </div>
-
-![](Galery/portada.png)
-
 
 ### Hi there 👋
 
