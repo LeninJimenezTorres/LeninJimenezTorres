@@ -14,7 +14,7 @@ using React Native</p>
 ### 
 
 <div align="justify" style="background-color: #00000; color:#ffffff; padding: 20px;>
-    <h2 align="left" style="color:#ffffff">Technologies</h2>
+    <h2 style="color:#ffffff">Technologies</h2>
     <div align="justify" style="background-color: #00000; color:#ffffff; padding: 20px;>
         <h3 align="justify" style="color:#ffffff">Programming languages</h3>
         <div>
