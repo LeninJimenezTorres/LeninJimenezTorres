@@ -40,13 +40,13 @@ using React Native</p>
      <div align="justify" style="background-color: #00000; color:#ffffff; padding: 20px;">
         <h3 align="justify" style="color:#ffffff">Tools</h3>
         <div>
-            <ul style="list-style: none;">
+            <ul list-style="none">
                 <li>Postman</li>
                 <li>Webpack</li>
                 <li>Linux</li>
                 <li>Figma</li>
                 <li>Bootstrap</li>
-                <li style="list-style: none;"><img src="Galery/icon4.png" alt="Icono" width="40" height="40" >Git</li>
+                <li list-style="none"><img src="Galery/icon4.png" alt="Icono" width="40" height="40" >Git</li>
             </ul>
         </div>
     </div>   
