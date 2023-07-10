@@ -37,26 +37,22 @@ using React Native</p>
             </ul>
         </div>
     </div>
-    
+     <div align="justify" style="background-color: #00000; color:#ffffff; padding: 20px;>
+        <h3 align="justify" style="color:#ffffff">Tools</h3>
+        <div>
+            <ul>
+                <li>Git</li>
+                <li>Postman</li>
+                <li>Webpack</li>
+                <li>Linux</li>
+                <li>Figma</li>
+                <li>Bootstrap</li>
+            </ul>
+        </div>
+    </div>   
 </div>
 
-
 ### 
-
-<div align="justify" style="background-color: #00000; color:#ffffff; padding: 20px;>
-    <h2 align="left" style="color:#ffffff">Tools</h2>
-</div>
-
-- Git, 
-- Webpack, 
-- Babel, 
-- Postman, 
-- Figma, 
-- Axio, 
-- Bootstrap
-
-### 
-
 
 <div align="center" style="background-color: #00000; color:#ffffff; padding: 20px;">
     <h2 align="justify" style="color:#ffffff">Contacts</h2>
