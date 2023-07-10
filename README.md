@@ -49,7 +49,16 @@ using React Native</p>
 - Email: jlenin25@hotmail.com
 - Phone: +593 979187982
 
-
+<div align="justify" style="background-color: #00000; color:#ffffff; padding: 20px;>
+    <h2 align="left" style="color:#ffffff">Tools</h2>
+</div>
+- Git, 
+- Webpack, 
+- Babel, 
+- Postman, 
+- Figma, 
+- Axio, 
+- Bootstra
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
