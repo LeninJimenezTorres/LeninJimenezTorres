@@ -58,10 +58,10 @@ using React Native</p>
     <h2 align="justify" style="color:#ffffff">Contacts</h2>
 </div>
 
-- LinkedIn: [https://www.linkedin.com/in/leninjimenez/]
+- LinkedIn: [@leninjimenez](https://www.linkedin.com/in/leninjimenez/)
 - Portfolio: 
 - Email: jlenin25@hotmail.com
-- Phone: +593 979187982
+- Phone: [Whatssapp](https://api.whatsapp.com/send?phone=593979187982)
 
 <div align="center" style="background-color: #00000; color:#ffffff; padding: 20px;">
     <h2 align="justify" style="color:#ffffff">Important Projects</h2>
