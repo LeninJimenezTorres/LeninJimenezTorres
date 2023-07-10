@@ -40,12 +40,12 @@ using React Native</p>
      <div align="justify" style="background-color: #00000; color:#ffffff; padding: 20px;">
         <h3 align="justify" style="color:#ffffff">Tools</h3>
          <div>
-            <div><img src="Galery/icon4.png" alt="Icono" width="40" height="40" >AWS</div>
-            <div><img src="Galery/icon4.png" alt="Icono" width="40" height="40" >Linux</div>
-            <div><img src="Galery/icon4.png" alt="Icono" width="40" height="40" >Docker</div>
-            <div><img src="Galery/icon4.png" alt="Icono" width="40" height="40" >Google cloud</div>
-            <div><img src="Galery/icon4.png" alt="Icono" width="40" height="40" >Wordpress</div>
-            <div><img src="Galery/icon4.png" alt="Icono" width="40" height="40" >Ecommerce</div>
+            <div><img src="Galery/icon9.png" alt="Icono" width="40" height="40" >AWS</div>
+            <div><img src="Galery/icon12.png" alt="Icono" width="40" height="40" >Linux</div>
+            <div><img src="Galery/icon5.png" alt="Icono" width="40" height="40" >Docker</div>
+            <div><img src="Galery/icon11.png" alt="Icono" width="40" height="40" >Google cloud</div>
+            <div><img src="Galery/icon15.png" alt="Icono" width="40" height="40" >Wordpress</div>
+            <div><img src="Galery/icon14.png" alt="Icono" width="40" height="40" >Ecommerce</div>
             <div><img src="Galery/icon4.png" alt="Icono" width="40" height="40" >Git</div>             
          </div>
     </div>   
