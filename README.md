@@ -18,8 +18,8 @@ using React Native</p>
     <div align="justify" style="background-color: #00000; color:#ffffff; padding: 20px;">
         <h3 align="justify" style="color:#ffffff">Programming languages</h3>
         <div>
-            <div><img src="Galery/icon2.png" alt="Icono" width="40" height="40" >iOS - Swift</div>
-            <div><img src="Galery/icon6.png" alt="Icono" width="40" height="40" >Javascript - React - React Native</div>
+            <div><img src="Galery/icon2.png" alt="Icono" width="40" height="40" >iOS - <img src="Galery/icon1.png" alt="Icono" width="40" height="40" >Swift</div>
+            <div><img src="Galery/icon13.png" alt="Icono" width="40" height="40" >Javascript - <img src="Galery/icon6.png" alt="Icono" width="40" height="40" >React - React Native</div>
             <div><img src="Galery/icon8.png" alt="Icono" width="40" height="40" >Node.JS - Express.JS - Next.JS</div>
             <div><img src="Galery/icon18.png" alt="Icono" width="40" height="40" >Python - Flask</div>
         </div>
