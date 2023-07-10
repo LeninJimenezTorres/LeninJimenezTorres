@@ -63,3 +63,8 @@ using React Native</p>
 - Email: jlenin25@hotmail.com
 - Phone: +593 979187982
 
+<div align="center" style="background-color: #00000; color:#ffffff; padding: 20px;">
+    <h2 align="justify" style="color:#ffffff">Important Projects</h2>
+    <p align="justify" style="color:#ffffff">I show you some of my most important projects</p>
+</div>
+![](Galery/arrowdown.png)
