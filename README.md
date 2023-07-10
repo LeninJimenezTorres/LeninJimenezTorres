@@ -11,18 +11,33 @@ project needs. I have a strong background in Swift, specializing in Javascript, 
 using React Native</p>
 </div>
 
-<div>
+<div align="center" style="background-color: #00000; color:#ffffff; padding: 20px;>
     <h2 align="justify" style="color:#ffffff">Technologies</h2>
-    <h3 align="justify" style="color:#ffffff">Programming languages</h3>
-    <div>
-        <ul>
-            <li>Swift</li>
-            <li>Javascript</li>
-            <li>Python</li>
-            <li>Php</li>
-        </ul>
+    <div align="justify" style="background-color: #00000; color:#ffffff; padding: 20px;>
+        <h3 align="justify" style="color:#ffffff">Programming languages</h3>
+        <div>
+            <ul>
+                <li>Swift</li>
+                <li>Javascript</li>
+                <li>Python</li>
+                <li>Php</li>
+            </ul>
+        </div>
+    </div>
+    <div align="justify" style="background-color: #00000; color:#ffffff; padding: 20px;>
+        <h3 align="justify" style="color:#ffffff">Frameworks</h3>
+        <div>
+            <ul>
+                <li>React.JS</li>
+                <li>React Native</li>
+                <li>Express.JS - Next.JS</li>
+                <li>Flask - Django</li>
+            </ul>
+        </div>
     </div>
 </div>
+
+
 
 - **Nombre:** Tu nombre
 - **Ubicación:** Tu ubicación
