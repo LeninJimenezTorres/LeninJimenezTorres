@@ -44,11 +44,12 @@ using React Native</p>
 <div align="justify" style="background-color: #00000; color:#ffffff; padding: 20px;>
     <h2 align="left" style="color:#ffffff">Contacts</h2>
 </div>
+
 - LinkedIn: [https://www.linkedin.com/in/leninjimenez/]
 - Portfolio: 
 - Email: jlenin25@hotmail.com
 - Phone: +593 979187982
--->
+
 
 <div align="justify" style="background-color: #00000; color:#ffffff; padding: 20px;>
     <h2 align="left" style="color:#ffffff">Tools</h2>
