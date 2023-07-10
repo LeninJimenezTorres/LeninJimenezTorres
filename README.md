@@ -50,7 +50,7 @@ mobile apps, RESTful APIs, 3D web rendering with Three.js, and eCommerce solutio
 </div>
 
 - LinkedIn: [@leninjimenez](https://www.linkedin.com/in/leninjimenez/)
-- Portfolio: 
+- Portfolio: [All projects](https://leninjimeneztorres.github.io/portfolio/)
 - Email: jlenin25@hotmail.com
 - Phone: [Whatsapp](https://api.whatsapp.com/send?phone=593979187982)
 
