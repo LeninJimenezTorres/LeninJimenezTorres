@@ -11,6 +11,8 @@ project needs. I have a strong background in Swift, specializing in Javascript, 
 using React Native</p>
 </div>
 
+### 
+
 <div align="justify" style="background-color: #00000; color:#ffffff; padding: 20px;>
     <h2 align="left" style="color:#ffffff">Technologies</h2>
     <div align="justify" style="background-color: #00000; color:#ffffff; padding: 20px;>
@@ -36,19 +38,13 @@ using React Native</p>
         </div>
     </div>
 </div>
+
+### 
+
 <div align="justify" style="background-color: #00000; color:#ffffff; padding: 20px;>
     <h2 align="left" style="color:#ffffff">Contacts</h2>
-    <div align="justify" style="background-color: #00000; color:#ffffff; padding: 20px;>
-        <div>
-            <ul>
-                <li>LinkedIn: <a href="https://www.linkedin.com/in/leninjimenez/"> https://www.linkedin.com/in/leninjimenez/ </a> </li>
-                <li>Javascript</li>
-                <li>Python</li>
-                <li>Php</li>
-            </ul>
-        </div>
-    </div>
 </div>
+- LinkedIn: [Lenin Jimenez]([enlace a tu perfil](https://www.linkedin.com/in/leninjimenez/))
 
 
 
