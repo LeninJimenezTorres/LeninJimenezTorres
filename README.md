@@ -47,6 +47,7 @@ using React Native</p>
                 <li>Linux</li>
                 <li>Figma</li>
                 <li>Bootstrap</li>
+                <li><img src="https://www.flaticon.es/icono-gratis/bascula_2928937?term=bascula&page=1&position=2&origin=search&related_id=2928937" alt="Icono"> Texto del elemento de lista</li>
             </ul>
         </div>
     </div>   
@@ -61,7 +62,7 @@ using React Native</p>
 - LinkedIn: [@leninjimenez](https://www.linkedin.com/in/leninjimenez/)
 - Portfolio: 
 - Email: jlenin25@hotmail.com
-- Phone: [Whatssapp](https://api.whatsapp.com/send?phone=593979187982)
+- Phone: [Whatsapp](https://api.whatsapp.com/send?phone=593979187982)
 
 <div align="center" style="background-color: #00000; color:#ffffff; padding: 20px;">
     <h2 align="justify" style="color:#ffffff">Important Projects</h2>
