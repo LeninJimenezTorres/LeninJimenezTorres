@@ -41,13 +41,12 @@ using React Native</p>
         <h3 align="justify" style="color:#ffffff">Tools</h3>
         <div>
             <ul>
-                <li>Git</li>
                 <li>Postman</li>
                 <li>Webpack</li>
                 <li>Linux</li>
                 <li>Figma</li>
                 <li>Bootstrap</li>
-                <li><img src="Galery/arrowdown2.gif" alt="Icono"> Texto del elemento de lista</li>
+                <li><img src="Galery/icon4.png" alt="Icono" width="20" height="20">Git</li>
             </ul>
         </div>
     </div>   
