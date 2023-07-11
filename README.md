@@ -2,7 +2,7 @@
     <h1 align="left" style="color:#ffffff">Software developer</h1>
 </div>
 
-![](Galery/portada2_1.png)
+![](Galery/portada3.gif)
 
 <div align="center" style="background-color: #00000; color:#ffffff; padding: 20px;">
     <h2 align="justify" style="color:#ffffff">About me</h2>
