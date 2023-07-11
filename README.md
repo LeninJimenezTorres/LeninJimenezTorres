@@ -46,6 +46,19 @@ mobile apps, RESTful APIs, 3D web rendering with Three.js, and eCommerce solutio
 ### 
 
 <div align="center" style="background-color: #00000; color:#ffffff; padding: 20px;">
+    <h2 align="justify" style="color:#ffffff">Education - Certifications</h2>
+    <div><img src="Galery/logoespe.png" alt="Icono" width="40" height="40" >Mechatronic Engineer - Universidad de las Fuerzas Armadas</div>
+    <div><img src="Galery/icon20.png" alt="Icono" width="40" height="40" >JavaScript Algorithms and Data Structures - freeCodeCamp</div>
+    <div><img src="Galery/icon21.png" alt="Icono" width="40" height="40" >Hackmakers #FormulaAI Hack 2022: Honorable Mentions Certificate</div>
+    <div><img src="Galery/icon21.png" alt="Icono" width="40" height="40" >Hackmakers #FormulaAI Hack 2022: Participant Certificate</div>
+    <div><img src="Galery/icon22.png" alt="Icono" width="40" height="40" >OCI Foundations 2021 Associate [1Z0-1085-21] - Oracle</div>
+    <div><img src="Galery/icon20.png" alt="Icono" width="40" height="40" >Responsive Web Design - freeCodeCamp</div>
+    <div><img src="Galery/icon23.png" alt="Icono" width="40" height="40" >Cisco Certified Network Associate - CCNA - Cisco</div>
+</div>
+
+### 
+
+<div align="center" style="background-color: #00000; color:#ffffff; padding: 20px;">
     <h2 align="justify" style="color:#ffffff">Contacts</h2>
 </div>
 
