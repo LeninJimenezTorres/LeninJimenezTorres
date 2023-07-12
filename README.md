@@ -32,7 +32,7 @@ mobile apps, RESTful APIs, 3D web rendering with Three.js, and eCommerce solutio
      <div align="justify" style="background-color: #00000; color:#ffffff; padding: 20px;">
         <h3 align="justify" style="color:#ffffff">Tools</h3>
          <div>
-            <div><img src="Galery/three.png" alt="Icono" width="40" height="40" >Three.js</div>
+            <div><img src="Galery/threejs.png" alt="Icono" width="40" height="40" >Three.js</div>
             <div><img src="Galery/icon9.png" alt="Icono" width="40" height="40" >AWS</div>
             <div><img src="Galery/icon12.png" alt="Icono" width="40" height="40" >Linux</div>
             <div><img src="Galery/icon5.png" alt="Icono" width="40" height="40" >Docker</div>
