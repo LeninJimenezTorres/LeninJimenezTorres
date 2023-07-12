@@ -9,7 +9,7 @@
     <p align="justify" style="color:#ffffff">Experienced iOS Developer with over 2 years of professional experience in creating software solutions tailored to
 project needs. I have a strong background in Swift, specializing in Javascript, and expertise in mobile development
 using React Native</p>
-    <p align="justify" style="color:#ffffff">My skill set includes proficiency in cloud services like AWS and Oracle Cloud Infrastructure, as well as CI/CD, Git,
+    <p align="justify" style="color:#ffffff">My skill set includes proficiency in cloud services like AWS and Oracle Cloud Infrastructure as well as 3D web rendering webapps with Three.js, CI/CD, Git,
 Linux, and database management. Throughout my career, I have successfully developed websites, web apps,
 mobile apps, RESTful APIs, 3D web rendering with Three.js, and eCommerce solutions with WordPress.
 </p>
@@ -32,6 +32,7 @@ mobile apps, RESTful APIs, 3D web rendering with Three.js, and eCommerce solutio
      <div align="justify" style="background-color: #00000; color:#ffffff; padding: 20px;">
         <h3 align="justify" style="color:#ffffff">Tools</h3>
          <div>
+            <div><img src="Galery/three.png" alt="Icono" width="40" height="40" >Three.js</div>
             <div><img src="Galery/icon9.png" alt="Icono" width="40" height="40" >AWS</div>
             <div><img src="Galery/icon12.png" alt="Icono" width="40" height="40" >Linux</div>
             <div><img src="Galery/icon5.png" alt="Icono" width="40" height="40" >Docker</div>
