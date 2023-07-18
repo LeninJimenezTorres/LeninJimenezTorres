@@ -5,7 +5,13 @@
 <div align="center"><img src="Galery/portada4.gif" alt="Icono" width="70%" height="auto" align="center"></div>
 
 <div align="center" style="background-color: #00000; color:#ffffff; padding: 20px;">
-    <h2 align="justify" style="color:#ffffff">Portfolio <a align="justify" style="color:#ffffff" href="https://leninjimeneztorres.github.io/portfolio/" target="_blank"> Link </a></h2>
+    <h2 align="justify" style="color:#ffffff">Portfolio 
+        <a align="justify" style="color:#ffffff" href="https://leninjimeneztorres.github.io/portfolio/" target="_blank">
+            <div>
+                <img src="Galery/omega.png" alt="Icono" width="40" height="40" >
+            </div>
+        </a>
+    </h2>
 </div>
 
 
