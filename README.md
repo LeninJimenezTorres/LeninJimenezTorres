@@ -5,6 +5,12 @@
 <div align="center"><img src="Galery/portada4.gif" alt="Icono" width="70%" height="auto" align="center"></div>
 
 <div align="center" style="background-color: #00000; color:#ffffff; padding: 20px;">
+    <h2 align="justify" style="color:#ffffff">Portfolio</h2>
+    <a align="justify" style="color:#ffffff" href="https://leninjimeneztorres.github.io/portfolio/"> Link </a>
+</div>
+
+
+<div align="center" style="background-color: #00000; color:#ffffff; padding: 20px;">
     <h2 align="justify" style="color:#ffffff">About me</h2>
     <p align="justify" style="color:#ffffff">Experienced iOS Developer with over 2 years of professional experience in creating software solutions tailored to
 project needs. I have a strong background in Swift, specializing in Javascript, and expertise in mobile development
