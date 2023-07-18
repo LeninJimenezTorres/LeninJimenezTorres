@@ -5,8 +5,7 @@
 <div align="center"><img src="Galery/portada4.gif" alt="Icono" width="70%" height="auto" align="center"></div>
 
 <div align="center" style="background-color: #00000; color:#ffffff; padding: 20px;">
-    <h2 align="justify" style="color:#ffffff">Portfolio</h2>
-    <a align="justify" style="color:#ffffff" href="https://leninjimeneztorres.github.io/portfolio/"> Link </a>
+    <h2 align="justify" style="color:#ffffff">Portfolio <a align="justify" style="color:#ffffff" href="https://leninjimeneztorres.github.io/portfolio/"> Link </a></h2>
 </div>
 
 
