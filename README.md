@@ -6,9 +6,9 @@
 
 <div align="center" style="background-color: #00000; color:#ffffff; padding: 20px;">
     <h2 align="justify" style="color:#ffffff">Portfolio 
-        <a align="justify" style="color:#ffffff; margin-left:15px" href="https://leninjimeneztorres.github.io/portfolio/" target="_blank">
-            <div>
-                <img src="Galery/omega.png" alt="Icono" width="40" height="40">
+        <a align="justify" style="color:#ffffff; margin-left:15px;" href="https://leninjimeneztorres.github.io/portfolio/" target="_blank">
+            <div style="color:#ffffff; margin-left:15px;">
+                <img src="Galery/omega.png" alt="Icono" width="40" height="40" style="color:#ffffff; margin-left:15px;">
             </div>
         </a>
     </h2>
